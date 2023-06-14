@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestlibOnionNuget", "TestlibOnionNuget\TestlibOnionNuget.csproj", "{BAA2B704-0399-4DCD-B988-4D54554D30C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA2B704-0399-4DCD-B988-4D54554D30C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA2B704-0399-4DCD-B988-4D54554D30C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA2B704-0399-4DCD-B988-4D54554D30C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA2B704-0399-4DCD-B988-4D54554D30C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FCCD26A-F5DC-4360-89F3-A73E9818FE44}
+	EndGlobalSection
+EndGlobal
