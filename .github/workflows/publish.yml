@@ -3,12 +3,12 @@ name: Publish TestlibOnionNuget .NET on NuGet
 on:
   push:
     branches: [ "master" ]
-    paths: [ 'src/TestlibOnionNuget/**' ]
+    paths: [ 'src/TestlibOnionNuget/TestlibOnionNuget/**' ]
   workflow_dispatch:
 
 env:
   NET_VERSION: '6.x'
-  PROJECT_NAME: src/TestlibOnionNuget
+  PROJECT_NAME: src/TestlibOnionNuget/TestlibOnionNuget
   PROJECT_FILE: TestlibOnionNuget.csproj
   RELEASE_NAME: TestlibOnionNuget
   
